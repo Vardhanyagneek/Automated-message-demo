@@ -1,0 +1,19 @@
+2026-10-03 15:01:12,Kiran,919800000001,skipped,unsubscribed
+2026-10-03 15:01:12,Sam,12345,skipped,invalid phone
+2026-10-03 15:01:12,Ravi,919876543210,sent,mock mode
+2026-10-03 15:01:13,Anita,919812345678,sent,mock mode
+2026-10-03 20:22:02,Vardhan,918143267230,failed,"{""error"":{""message"":""Invalid OAuth access token - Cannot parse access token"",""type"":""OAuthException"",""code"":190,""fbtrace_id"":""AucFBe6GW0dYLluIa-h3yYK""}}"
+2026-10-03 22:41:08,Vardhan,918143267230,failed,"{""error"":{""message"":""Authentication Error"",""code"":190,""type"":""OAuthException"",""fbtrace_id"":""Al9b0KroEz8ypZih13IZ5S_""}}"
+2026-10-03 22:45:04,Vardhan,918143267230,failed,code 190: Access token is invalid or expired. Generate a new token in Meta and paste it into .env.
+2026-10-03 22:46:20,Vardhan,918143267230,failed,code 190: Access token is invalid or expired. Generate a new token in Meta and paste it into .env.
+2026-10-03 22:47:44,Vardhan,918143267230,sent,template: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSQjU4QzE3MDI0QjVEMUFGNzJDAA==
+2026-10-03 22:49:54,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSMjM5RTAyRTRFODkwQjQ4OUUxAA==
+2026-10-03 22:57:04,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSNUU3ODhDOUFFNkNDNEU0Q0IzAA==
+2026-10-03 22:58:59,Vardhan,918143267230,failed,code 190: Access token is invalid or expired. Generate a new token in Meta and paste it into .env.
+2026-10-03 22:59:35,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSRTM1NjdCNDVGQ0U5RTAxOEE3AA==
+2026-10-03 23:01:35,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSNjBDRjgxRTJGNDUxN0FBQTJBAA==
+2026-10-03 23:06:24,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSMzFBNjI3RTc1MDA0MjJDRUYwAA==
+2026-10-03 23:06:48,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSOEVDNjJGOTQ5OEE0NTdGREJDAA==
+2026-10-04 09:21:09,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSNTVBNDU5MTAyMDU1RjNFMUI3AA==
+2026-10-04 09:24:02,Vardhan,918143267230,sent,text: wamid.HBgMOTE4MTQzMjY3MjMwFQIAERgSMjE5MUY3RDE2QzdEODQwRDNBAA==
+2026-10-04 09:25:39,Satyanarayana,9440220062,failed,code 131030: Recipient is not in the allowed list. Add and verify this number in Meta (API Setup).
